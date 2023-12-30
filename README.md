@@ -1,11 +1,10 @@
 ### Olá eu sou o Rafael Alves 👋
 
 ##Links Úteis
-<div style="display: inline_block">
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelalvesd/)
 [![Linkedin](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
 )](https://open.spotify.com/playlist/3qXt2D5Gm9Yk208IEoVrTr?si=abcc7af1f9fd4d9e)
-</div><br/>
 
 ## Tecnologias que uso no meu dia a dia
 <div style="display: inline_block">
