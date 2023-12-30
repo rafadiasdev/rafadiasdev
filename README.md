@@ -3,8 +3,7 @@
 ## Links Úteis
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelalvesd/)
-[![Linkedin](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
-)](https://open.spotify.com/playlist/3qXt2D5Gm9Yk208IEoVrTr?si=abcc7af1f9fd4d9e)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3Ps8PcF2dTwQ1RD2cFeMtM?si=c807d6552aa84201)
 
 ## Tecnologias que uso no meu dia a dia
 <div style="display: inline_block">
